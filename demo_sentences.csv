@@ -1,0 +1,23 @@
+category,scenario,sentence
+Spelling,Common misspellings,I recieved teh mesage from my freind yesterday.
+Spelling,College and assignment,I am studing at the univercity and finishing my assigment.
+Spelling,Technical writing,The algorithim processes the sentense and generates a responce.
+Spelling,Daily conversation,Please remmember to bring the neccessary documents tommorow.
+Spelling,Meeting notes,We discussed the buisness plan during the meetting.
+Grammar,Subject–verb agreement,She go to school every day.
+Grammar,Plural agreement,The students is working on their projects.
+Grammar,Past tense,Yesterday I walk to the market.
+Grammar,Article usage,He is a honest person.
+Grammar,Third-person verb,My brother play football on Sundays.
+Grammar,Question structure,Where you are going?
+Grammar,Present perfect,She have finished her homework.
+Grammar,Noun agreement,These book are very interesting.
+Grammar,Double negative,I do not know nothing about the topic.
+Grammar,Past tense and agreement,They was happy after the match.
+Mixed,Classroom demonstration,She go to collage yesterday. I recieved teh mesage from my freind.
+Mixed,NLP laboratory,Our NLP modle detect grammer mistake and correct the sentenses.
+Mixed,Project presentation,The studnts is presenting there projct to the faculty.
+Mixed,Email writing,"Dear sir, I has submited my report. Please cheak it."
+Mixed,Academic paragraph,Natural language procesing help computer understand human langauge. It are useful in many application.
+Clean,Correct sentence,The students are preparing their NLP mini-project for the presentation.
+Clean,Correct paragraph,Natural language processing helps computers understand and analyze human language.
