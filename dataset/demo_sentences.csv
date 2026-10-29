@@ -1,0 +1,17 @@
+category,title,input_text,expected_correction
+Spelling,Basic spelling,I recieved teh mesage from my freind.,I received the message from my friend.
+Spelling,School and education,The studnts are studing in the libary.,The students are studying in the library.
+Spelling,Common typos,Please chekc the adress and send the documnt.,Please check the address and send the document.
+Spelling,Daily communication,I will definatly attend the meting tomorow.,I will definitely attend the meeting tomorrow.
+Grammar,Subject-verb agreement,She go to school every day.,She goes to school every day.
+Grammar,Plural agreement,He have two books.,He has two books.
+Grammar,Past tense,Yesterday I walk to the market.,Yesterday I walked to the market.
+Grammar,Article usage,She bought a umbrella.,She bought an umbrella.
+Grammar,Present continuous,They is playing football.,They are playing football.
+Mixed,Spelling and grammar,She go to collage yesterday. I recieved teh mesage.,She went to college yesterday. I received the message.
+Mixed,College presentation,Our techer give us an assigment yesterday.,Our teacher gave us an assignment yesterday.
+Mixed,Project report,This progrm detect errors and give sugestions.,This program detects errors and gives suggestions.
+Correct,Correct sentence,The students are learning natural language processing.,The students are learning natural language processing.
+Correct,Correct paragraph,Our project uses Python to analyze text and suggest corrections.,Our project uses Python to analyze text and suggest corrections.
+NLP,POS tagging,The curious student quickly solved the difficult problem.,The curious student quickly solved the difficult problem.
+NLP,Lemmatization,The children were running and playing in the gardens.,The children were running and playing in the gardens.
